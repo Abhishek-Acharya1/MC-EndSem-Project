@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734941128596",
+    "firebase_url": "https://garbagecollectionprojectdb-default-rtdb.firebaseio.com",
+    "project_id": "garbagecollectionprojectdb",
+    "storage_bucket": "garbagecollectionprojectdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734941128596:android:8def2e879dd2a75d139181",
+        "android_client_info": {
+          "package_name": "com.example.garbagecollectionproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734941128596-9l397datocr050totl23gcbkkf4jf45h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM1eq9PAY88sRXLxa6s9X_wFtdXBrfbbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734941128596-9l397datocr050totl23gcbkkf4jf45h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
